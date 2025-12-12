@@ -37,7 +37,7 @@ export function Hero() {
             {/* Year badge */}
             <div className="mb-8 sm:mb-12">
               <span className="text-xs sm:text-sm tracking-widest text-zinc-500 uppercase">
-                Стендап-тур 2025
+                Стендап-тур 2026
               </span>
             </div>
 
