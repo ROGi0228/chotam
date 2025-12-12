@@ -11,7 +11,7 @@ const tourDates = [
   {
     city: 'Ташкент',
     country: 'Узбекистан',
-    date: '09.01.2025',
+    date: '09.01.2026',
     day: 'Четверг',
     venue: 'sahna standup club',
     shows: [
@@ -23,7 +23,7 @@ const tourDates = [
   {
     city: 'Шымкент',
     country: 'Казахстан',
-    date: '10.01.2025',
+    date: '10.01.2026',
     day: 'Пятница',
     venue: 'Бар КОО/KOO / Ташенова, 16',
     shows: [
@@ -35,7 +35,7 @@ const tourDates = [
   {
     city: 'Бишкек',
     country: 'Кыргызстан',
-    date: '11.01.2025',
+    date: '11.01.2026',
     day: 'Суббота',
     venue: 'sod out bar / байтик баатыра, 32',
     shows: [
@@ -47,7 +47,7 @@ const tourDates = [
   {
     city: 'Астана',
     country: 'Казахстан',
-    date: '16.01.2025',
+    date: '16.01.2026',
     day: 'Четверг',
     venue: 'Бар wien / кабанбай батыр, 2/1',
     shows: [
@@ -59,7 +59,7 @@ const tourDates = [
   {
     city: 'Москва',
     country: 'Россия',
-    date: '17.01.2025',
+    date: '17.01.2026',
     day: 'Пятница',
     venue: 'Still standup club / покровка, 17',
     shows: [
@@ -71,7 +71,7 @@ const tourDates = [
   {
     city: 'Санкт-Петербург',
     country: 'Россия',
-    date: '18.01.2025',
+    date: '18.01.2026',
     day: 'Суббота',
     venue: 'Ул. Марата, 86, ТРК"Планета нептун"',
     shows: [

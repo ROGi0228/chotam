@@ -60,7 +60,7 @@ export function Hero() {
             {/* Description */}
             <div className="max-w-2xl mb-8 sm:mb-12">
               <p className="text-base sm:text-lg text-zinc-400 leading-relaxed">
-                Шесть городов Центральной Азии и России. Январь 2025.
+                Шесть городов Центральной Азии и России. Январь 2026.
               </p>
             </div>
 
