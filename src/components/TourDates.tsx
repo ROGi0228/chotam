@@ -39,8 +39,8 @@ const tourDates = [
     day: 'Суббота',
     venue: 'sod out bar / байтик баатыра, 32',
     shows: [
-      { time: '20:00', name: 'Наруто', ticketLink: 'https://api.whatsapp.com/send/?phone=996558085790&text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5,+%D1%85%D0%BE%D1%87%D1%83+%D0%BA%D1%83%D0%BF%D0%B8%D1%82%D1%8C+%D0%B1%D0%B8%D0%BB%D0%B5%D1%82%D1%8B+%D0%BD%D0%B0+%D1%88%D0%BE%D1%83+%C2%AB%D0%A7%D0%BE+%D0%A2%D0%B0%D0%BC%C2%BB+%D0%BD%D0%B0+11+%D1%8F%D0%BD%D0%B2%D0%B0%D1%80%D1%8F.&type=phone_number&app_absent=0' },
-      { time: '22:00', name: 'Атака титанов', ticketLink: 'https://api.whatsapp.com/send/?phone=996558085790&text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5,+%D1%85%D0%BE%D1%87%D1%83+%D0%BA%D1%83%D0%BF%D0%B8%D1%82%D1%8C+%D0%B1%D0%B8%D0%BB%D0%B5%D1%82%D1%8B+%D0%BD%D0%B0+%D1%88%D0%BE%D1%83+%C2%AB%D0%A7%D0%BE+%D0%A2%D0%B0%D0%BC%C2%BB+%D0%BD%D0%B0+11+%D1%8F%D0%BD%D0%B2%D0%B0%D1%80%D1%8F.&type=phone_number&app_absent=0#' },
+      { time: '20:00', name: 'Наруто', ticketLink: 'https://iticket.kg/events/concerts/chotam-naruto/698' },
+      { time: '22:00', name: 'Атака титанов', ticketLink: 'https://iticket.kg/events/concerts/chotam-ataka-titanov/699' },
     ],
     posterUrl: bishkekPoster,
   },
