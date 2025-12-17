@@ -2,8 +2,8 @@ import React from 'react';
 import { CityCard } from './CityCard';
 import bishkekPoster from 'figma:asset/f310f3d0c12775120f246a7e219143c2d4c76d11.png';
 import astanaPoster from 'figma:asset/2c7efa0802c2b885f0650d5b4eb9c5ec9a339f81.png';
-import moscowPoster from 'figma:asset/ef1f0a0b7cb5e394b840cabca394bd93d01213d9.png';
-import spbPoster from 'figma:asset/dc74396d63afadd1da788b3ee93ca60d98643190.png';
+import moscowPoster from '../assets/moscow.png';
+import spbPoster from '../assets/piter.png';
 import shymkentPoster from 'figma:asset/088fc2be615fd26eaac14ffd4950c2759f13c38b.png';
 import tashkentPoster from 'figma:asset/06b9341adb86ebb618eb18239a3da03ea5ae8864.png';
 
@@ -28,7 +28,7 @@ const tourDates = [
     venue: 'Бар КОО/KOO / Ташенова, 16',
     shows: [
       { time: '19:00', name: 'Наруто', ticketLink: 'https://sxodim.com/shymkent/event/komediynoe-shou-cho-tam-anime-tur-10-yanvarya' },
-      { time: '21:30', name: 'Атака титанов', ticketLink: 'https://sxodim.com/shymkent/event/komediynoe-shou-cho-tam-anime-tur-10-yanvarya' },
+      { time: '21:30', name: 'Атака титанов', ticketLink: 'https://onvibe.me/event/607' },
     ],
     posterUrl: shymkentPoster,
   },
