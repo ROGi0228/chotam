@@ -15,8 +15,8 @@ const tourDates = [
     day: 'Четверг',
     venue: 'sahna standup club',
     shows: [
-      { time: '19:00', name: 'Наруто', ticketLink: 'https://t.me/sahnastandup_bot' },
-      { time: '21:30', name: 'Атака титанов', ticketLink: 'https://t.me/sahnastandup_bot' },
+      { time: '19:00', name: 'Наруто', ticketLink: 'https://t.me/sahnastandup_bot?start=693fa671687a0_ru' },
+      { time: '21:30', name: 'Атака титанов', ticketLink: 'https://t.me/sahnastandup_bot?start=694028539a85d_ru' },
     ],
     posterUrl: tashkentPoster,
   },
