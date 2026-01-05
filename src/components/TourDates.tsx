@@ -18,11 +18,11 @@ const tourDates = [
       { time: '19:00', name: 'Наруто', ticketLink: 'https://t.me/sahnastandup_bot?start=693fa671687a0_ru' },
       { time: '21:30', name: 'Атака титанов', ticketLink: 'https://t.me/sahnastandup_bot?start=694028539a85d_ru' },
     ],
-    posterUrl: tashkentPoster,
+    posterUrl: tashkentPoster,  
   },
   {
     city: 'Шымкент',
-    country: 'Казахстан',
+    country: 'Казахстан', 
     date: '10.01.2026',
     day: 'Пятница',
     venue: 'Бар КОО/KOO / Ташенова, 16',
@@ -48,7 +48,7 @@ const tourDates = [
     city: 'Астана',
     country: 'Казахстан',
     date: '16.01.2026',
-    day: 'Четверг',
+    day: 'Пятница',
     venue: 'Бар wien / кабанбай батыр, 2/1',
     shows: [
       { time: '19:00', name: 'Наруто', ticketLink: 'https://sxodim.com/astana/event/yumoristicheskoe-shou-cho-tam' },
@@ -60,7 +60,7 @@ const tourDates = [
     city: 'Москва',
     country: 'Россия',
     date: '17.01.2026',
-    day: 'Пятница',
+    day: 'Суббота',
     venue: 'Still standup club / покровка, 17',
     shows: [
       { time: '19:00', name: 'атака титанов', ticketLink: 'https://stillstandup.com/afisha/tpost/eapg24dkf1-chotam-ataka-titanov' },
@@ -72,7 +72,7 @@ const tourDates = [
     city: 'Санкт-Петербург',
     country: 'Россия',
     date: '18.01.2026',
-    day: 'Суббота',
+    day: 'воскресенье',
     venue: 'Ул. Марата, 86, ТРК"Планета нептун"',
     shows: [
       { time: '19:00', name: 'атака титанов', ticketLink: 'https://afisha.yandex.ru/saint-petersburg/standup/cho-tam' },
