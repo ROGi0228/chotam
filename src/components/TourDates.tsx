@@ -12,7 +12,7 @@ const tourDates = [
     city: 'Ташкент',
     country: 'Узбекистан',
     date: '09.01.2026',
-    day: 'Четверг',
+    day: 'Пятница',
     venue: 'sahna standup club',
     shows: [
       { time: '19:00', name: 'Наруто', ticketLink: 'https://t.me/sahnastandup_bot?start=693fa671687a0_ru' },
@@ -24,7 +24,7 @@ const tourDates = [
     city: 'Шымкент',
     country: 'Казахстан', 
     date: '10.01.2026',
-    day: 'Пятница',
+    day: 'Суббота',
     venue: 'Бар КОО/KOO / Ташенова, 16',
     shows: [
       { time: '19:00', name: 'Наруто', ticketLink: 'https://sxodim.com/shymkent/event/komediynoe-shou-cho-tam-anime-tur-10-yanvarya' },
@@ -36,7 +36,7 @@ const tourDates = [
     city: 'Бишкек',
     country: 'Кыргызстан',
     date: '11.01.2026',
-    day: 'Суббота',
+    day: 'воскресенье',
     venue: 'sod out bar / байтик баатыра, 32',
     shows: [
       { time: '20:00', name: 'Наруто', ticketLink: 'https://iticket.kg/events/concerts/chotam-naruto/698' },
